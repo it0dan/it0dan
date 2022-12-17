@@ -1,7 +1,7 @@
 # Hi coder! <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="80" />
 
 <div>
-  <a href="https://github.com/it0dan">
+  <a href="https://github.com/it0dan" target="blank">
     <img src="https://komarev.com/ghpvc/?username=it0dan&label=Views&color=3f1a91&style=plastic">
   </a>
   
