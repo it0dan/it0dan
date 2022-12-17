@@ -131,9 +131,14 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 [*Wyrd Bið Ful Aræd*](https://oldenglishpoetry.camden.rutgers.edu/2017/06/08/wyrd-bid-ful-araed-the-wanderer-line-5b/)
   
-## 👀 A Fact About Me
+## 👀 Facts About Me
   
 I'm ~~retired~~ bass player 🎸 and my favourite band is [**KoRn**](https://korn.com/) 🎧
+
+Oh, and I love memes
+  
+<img src="https://media.tenor.com/PlXROjIs2BcAAAAS/javascript-undefined-is-not-a-function.gif" width="200">
+
   
 <!---
 it0dan/it0dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
