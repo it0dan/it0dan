@@ -127,6 +127,14 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 ![Snake animation](https://github.com/it0dan/it0dan/blob/output/github-contribution-grid-snake.svg)
   
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20"> A Famous Quote
+  
+[*Wyrd Bið Ful Aræd*](https://oldenglishpoetry.camden.rutgers.edu/2017/06/08/wyrd-bid-ful-araed-the-wanderer-line-5b/)
+  
+## 👀 A Fact About Me
+  
+I'm ~~retired~~ bass player 🎸 and my favourite band is [**KoRn**](https://korn.com/) 🎧
+  
 <!---
 it0dan/it0dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
