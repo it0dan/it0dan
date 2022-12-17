@@ -9,12 +9,8 @@
     <img src="https://img.shields.io/github/followers/it0dan?label=follow&style=social">
   </a>
 </div>
-  
---------------
 
-## I'm *it0dan* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="30">
-
-Brazilian software engineering student.
+## I'm it0dan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="30">
 
 <div>
   <a href="https://www.linkedin.com/in/itdaniloamaral">
@@ -33,19 +29,91 @@ Brazilian software engineering student.
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
   
-   <a href="https://www.youtube.com/channel/UCK3P0cgY_32wdRN4Xw1Fn5w" target="blank">
+   <a href="https://www.youtube.com/channel/UCK3P0cgY_32wdRN4Xw1Fn5w">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
+
+Brazilian software engineering student.
 
 Currently I'm working at [Sensedia](https://sensedia.com/) as Technical Customer Success Manager, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
 
 I believe in lifelong learning, so I'm always studying something. 📚
 
-Right now I'm focused in APIs, software development and solutions architecture.
+Right now I'm focused in APIs, software development and solutions architecture. 🎯
 
-But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT request into my brain.
+But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
+## Operating System & Tools
+
+<div>
+  <a href="https://www.microsoft.com/en-us/windows?r=1">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="60">
+  </a>  
+  
+  <a href="https://ubuntu.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="60">
+  </a>
+  
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="60">
+  </a>
+  
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60">
+  </a>
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60">
+  </a>
+
+## Technology Stack
+  
+<div>
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60">
+  </a>
+  
+  <a href="https://nodejs.org/en/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60">
+  </a>  
+  
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="60">
+  </a>
+  
+  <a href="https://nestjs.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="60">
+  </a>
+  
+  <a href="https://graphql.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60">
+  </a>
+  
+  <a href="https://github.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="60">
+  </a>
+  
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
+  </a>
+  
+  <a href="https://kubernetes.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="60">
+  </a>
+  
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60">
+  </a>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="60">
+  </a>
+  
+  <a href="https://www.elastic.co/">
+    <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" width="60">
+  </a>
+  
 <!---
 it0dan/it0dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
