@@ -44,7 +44,7 @@ Right now I'm focused in APIs, software development and solutions architecture. 
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
-## Operating System & Tools
+## ⚙️ Operating System & Tools
 
 <div>
   <a href="https://www.microsoft.com/en-us/windows?r=1">
@@ -67,7 +67,7 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60">
   </a>
 
-## Technology Stack
+## 🔥 Technology Stack
   
 <div>
   <a href="https://www.javascript.com/">
@@ -115,7 +115,7 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   </a>
 </div>
   
- ## My Stats
+ ## 📊 My Stats
   
 <div>
   <a href="https://github.com/it0dan">
@@ -135,12 +135,6 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 I'm ~~retired~~ bass player 🎸 and my favourite band is [**KoRn**](https://korn.com/) 🎧
 
-Oh, and I love memes
+Oh, and I ❤ memes!
   
 <img src="https://media.tenor.com/PlXROjIs2BcAAAAS/javascript-undefined-is-not-a-function.gif" width="200">
-
-  
-<!---
-it0dan/it0dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
