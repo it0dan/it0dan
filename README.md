@@ -129,7 +129,7 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20"> A Famous Quote
   
-[*Wyrd Bið Ful Aræd*](https://oldenglishpoetry.camden.rutgers.edu/2017/06/08/wyrd-bid-ful-araed-the-wanderer-line-5b/)
+[*"Wyrd Bið Ful Aræd" - Apollon Maykov*](https://oldenglishpoetry.camden.rutgers.edu/2017/06/08/wyrd-bid-ful-araed-the-wanderer-line-5b/)
   
 ## 👀 Facts About Me
   
