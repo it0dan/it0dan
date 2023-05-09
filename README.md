@@ -40,7 +40,7 @@ Currently I'm working at [Sensedia](https://sensedia.com/) as Technical Customer
 
 I believe in lifelong learning, so I'm always studying something. 📚
 
-Right now I'm focused in APIs, software development and solutions architecture. 🎯
+Right now I'm focused in APIs, k8s, observability and solutions architecture. 🎯
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
