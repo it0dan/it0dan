@@ -34,13 +34,13 @@
   </a>
 </div>
 
-Brazilian software engineering student.
+Brazilian guy!
 
-Currently I'm working at [Sensedia](https://sensedia.com/) as Technical Customer Success Manager, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
+Currently I'm working at [Sensedia](https://sensedia.com/) as Customer Success Engineer, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
 
 I believe in lifelong learning, so I'm always studying something. 📚
 
-Right now I'm focused in APIs, k8s, observability and solutions architecture. 🎯
+Right now I'm focused in APIs lifecycle and devSecOps. 🎯
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
