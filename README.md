@@ -46,14 +46,14 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
 
 ## ⚙️ Operating System & Tools
 
-<div>
-  <a href="https://www.microsoft.com/en-us/windows?r=1">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="60">
-  </a>  
-  
+<div>  
   <a href="https://ubuntu.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="60">
   </a>
+
+  <a href="https://www.microsoft.com/en-us/windows?r=1">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="60">
+  </a>   
   
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="60">
@@ -61,10 +61,6 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
   <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60">
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60">
   </a>
 
 ## 🔥 Technology Stack
