@@ -67,47 +67,47 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 <div>
   <a href="https://www.javascript.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40">
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40">
   </a>  
   
   <a href="https://www.typescriptlang.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40">
   </a>
   
   <a href="https://nestjs.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40">
   </a>
   
   <a href="https://graphql.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40">
   </a>
   
   <a href="https://github.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40">
   </a>
   
   <a href="https://www.docker.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40">
   </a>
   
   <a href="https://kubernetes.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40">
   </a>
   
   <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40">
   </a>
   
   <a href="https://www.mongodb.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40">
   </a>
   
   <a href="https://www.elastic.co/">
-    <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" width="60">
+    <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" width="40">
   </a>
 </div>
   
