@@ -40,6 +40,8 @@ Currently I'm working at [Sensedia](https://sensedia.com/) as Customer Success E
 
 I believe in lifelong learning, so I'm always studying something. 📚
 
+I'm a speaker, content creator and events coordinator and I love to share my knowledge and experiences mostly about APIs and Customer Success to the community. ⭐
+
 Right now I'm focused in APIs, devops culture and main concepts and tools like CI/CD pipelines, automation & scripting, monitoring & observability and containerzation. 🎯
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
