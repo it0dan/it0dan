@@ -12,25 +12,13 @@
 
 ## I'm it0dan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="30">
 
-<div>
-  <a href="https://www.linkedin.com/in/itdaniloamaral">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
+<div>  
    <a href="https://medium.com/@D.aN">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   
    <a href="https://open.spotify.com/user/qvlig3ixandn9kb3sf9dsv7qj?si=e23521c203fd44ca">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-  
-   <a href="https://www.twitch.tv/it0dan">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  
-   <a href="https://www.youtube.com/channel/UCK3P0cgY_32wdRN4Xw1Fn5w">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
 
