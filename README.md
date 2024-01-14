@@ -1,4 +1,4 @@
-# Hi! <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="80" />
+# Hi there! <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="80" />
 
 <div>
   <a href="https://github.com/it0dan">
