@@ -1,4 +1,4 @@
-# Hi coder! <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="80" />
+# Hi! <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="80" />
 
 <div>
   <a href="https://github.com/it0dan">
@@ -42,75 +42,29 @@ I believe in lifelong learning, so I'm always studying something. 📚
 
 I'm a speaker, content creator and events coordinator and I love to share my knowledge and experiences mostly about APIs and Customer Success to the community. ⭐
 
-Right now I'm focused in APIs, devops culture and main concepts and tools like CI/CD pipelines, automation & scripting, monitoring & observability and containerzation. 🎯
+Right now I'm focused DevOps culture and main concepts & tools like CI/CD pipelines, automation & scripting, monitoring & observability and containerzation. 🎯
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
-## ⚙️ Operating System & Tools
+## ⚙️ What I'm in Love Right Now
 
 <div>  
-  <a href="https://ubuntu.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="60">
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/windows?r=1">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="60">
-  </a>   
-  
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="60">
+  <a href="https://linux.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100">
   </a>
   
-  <a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60">
-  </a>
-
-## 🔥 Technology Stack
-  
-<div>
-  <a href="https://www.javascript.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40">
-  </a>
-  
-  <a href="https://nodejs.org/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40">
-  </a>  
-  
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40">
-  </a>
-  
-  <a href="https://nestjs.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40">
-  </a>
-  
-  <a href="https://graphql.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40">
-  </a>
-  
-  <a href="https://github.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40">
-  </a>
-  
-  <a href="https://www.docker.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40">
+  <a href="https://docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="100">
   </a>
   
   <a href="https://kubernetes.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="100">
   </a>
   
-  <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40">
-  </a>
+  <a href="https://go.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
+  </a>  
   
-  <a href="https://www.mongodb.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40">
-  </a>
-  
-  <a href="https://www.elastic.co/">
-    <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" width="40">
-  </a>
 </div>
   
  ## 📊 My Stats
