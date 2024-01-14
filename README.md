@@ -85,7 +85,7 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
   
 ## 👀 Facts About Me
   
-I'm ~~retired~~ bass player 🎸 and my favourite band is [**KoЯn**](https://korn.com/) 🎧
+I'm ~~retired~~ bass player 🎸 and my favorite band is [**KoЯn**](https://korn.com/) 🎧
 
 Oh, and I ❤ memes!
   
