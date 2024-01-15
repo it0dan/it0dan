@@ -41,6 +41,10 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100">
   </a>
   
+  <a href="https://en.wikipedia.org/wiki/Shell_script">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="100">
+  </a>  
+  
   <a href="https://docker.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="100">
   </a>
