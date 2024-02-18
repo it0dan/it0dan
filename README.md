@@ -64,7 +64,7 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
 <div>
   <a href="https://github.com/it0dan">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=it0dan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=it0dan&layout=pie&langs_count=5&theme=dracula&count_private=true" width="400">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it0dan&layout=donut&theme=dark"/>
 </div>
   
 ------------
