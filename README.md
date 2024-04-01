@@ -24,7 +24,7 @@
 
 Brazilian guy!
 
-Currently I'm working at [Sensedia](https://sensedia.com/) as Customer Success Engineer, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
+Currently I'm working at [Sensedia](https://sensedia.com/) as Senior Solutions Analyst, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
 
 I believe in lifelong learning, so I'm always studying something. 📚
 
