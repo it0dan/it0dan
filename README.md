@@ -24,13 +24,13 @@
 
 Brazilian guy!
 
-Currently I'm working at [Sensedia](https://sensedia.com/) as Integration Architect, helping our customers to enable and empower their integration strategies on digital transformation, agile architecture, platform ecosystems and partners integration.
+Currently I'm working at [Sensedia](https://sensedia.com/) as Integration Architect, helping customers design and implement robust integration strategies to drive digital transformation, enable agile architecture, and foster ecosystem growth through APIs, microservices, integration flows, and event-driven architectures. 🚀
 
-I believe in lifelong learning, so I'm always studying something. 📚
+I specialize in API Management, integration architecture, and platform ecosystems, ensuring seamless partner integrations and enterprise scalability. 🌟
 
-Speaker, content creator and events coordinator and I love to share my knowledge and experiences mostly about APIs and Customer Success to the community. ⭐
+I'm passionate about lifelong learning and am constantly studying trends like software and In integration architecture patterns, cloud-native development, CI/CD pipelines, containerization (Docker, Kubernetes), and observability tools (Prometheus, Grafana). 📚
 
-Right now I'm focused on DevOps culture and main concepts & tools like CI/CD pipelines, automation & scripting, monitoring & observability and containerzation. 🎯
+Currently focused on advancing my expertise in integration patterns, modern architectures, and best practices, leveraging technologies such as iPaaS, API Management, API Gateway, Kafka, and REST APIs. Exploring frameworks and tools to build scalable microservices and event-driven systems, while ensuring seamless orchestration and interoperability through solutions like Apache Camel and Kubernetes. 🎯
 
 But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT requests into my brain. 🧠
 
