@@ -37,24 +37,24 @@ But this is a **var** not a **const**. So I'm always making a POST, PATCH or PUT
 ## ⚙️ What I'm in Love Right Now
 
 <div>  
-  <a href="https://linux.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100">
+  <a href="https://aws.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100">
   </a>
   
-  <a href="https://en.m.wikipedia.org/wiki/Bash_(Unix_shell)">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="100">
+  <a href="https://github.com/features/actions">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" width="100">
   </a>  
   
-  <a href="https://docker.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="100">
+  <a href="https://grpc.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" width="100">
   </a>
   
   <a href="https://kubernetes.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="100">
   </a>
   
-  <a href="https://go.dev/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
+  <a href="https://opentelemetry.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original-wordmark.svg" width="100">
   </a>  
   
 </div>
