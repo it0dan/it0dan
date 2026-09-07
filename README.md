@@ -13,7 +13,7 @@
 
 <br>
 
-Arquiteto soluções e sistemas multiagente na [Sensedia](https://sensedia.com). Meu foco autal está no tema [**Harness Engineering**](https://www.sensedia.com/post/arquitetura-para-agentes-de-ia-como-deixa-la-eficiente-e-escalavel) — Guias, Sensores e Evals como base para agentes confiáveis em produção — tema que já levei pra APIX, NodeBR e Hacktown.
+Arquiteto soluções e sistemas multiagente na [Sensedia](https://sensedia.com). Meu foco autal está no tema [**Harness Engineering**](https://www.sensedia.com.br/post/arquitetura-para-agentes-de-ia-como-deixa-la-eficiente-e-escalavel) — Guias, Sensores e Evals como base para agentes confiáveis em produção — tema que já levei pra APIX, NodeBR e Hacktown.
 
 `Python` · `LangGraph` · `FastAPI` · `React` · `TypeScript` · `Claude / Anthropic SDK`
 
